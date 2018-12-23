@@ -1,7 +1,7 @@
 # Site settings
 title: Leoyeer
 SEOTitle: leoyeer的博客
-header-img: img/bg.jpg
+header-img: /img/bg.jpg
 email: leoyeer@gmail.com
 description: ""
 keyword: "leoyeer的博客, leoyeer, Apple, iPhone, openresty, lua"
